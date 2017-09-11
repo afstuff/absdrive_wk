@@ -1,0 +1,2 @@
+8/1/2017 12:31:44 AM ==> Job 'ReadSMSToDB is scheduled 8/1/2017 12:31:49 AM +01:00
+8/1/2017 7:44:33 PM ==> Job 'ReadSMSToDB is scheduled 8/1/2017 7:44:38 PM +01:00

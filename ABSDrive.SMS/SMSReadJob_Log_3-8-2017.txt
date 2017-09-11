@@ -1,0 +1,7 @@
+8/3/2017 2:41:33 AM ==> Scheduler not available: No connection could be made because the target machine actively refused it 127.0.0.1:555
+8/3/2017 2:50:03 AM ==> Job 'ReadSMSToDB is scheduled 8/3/2017 2:50:08 AM +01:00
+8/3/2017 3:23:22 AM ==> Scheduler not available: No connection could be made because the target machine actively refused it 127.0.0.1:555
+8/3/2017 3:24:07 AM ==> Job 'ReadSMSToDB is scheduled Thu, 03 Aug 2017 02:24:12 GMT
+8/3/2017 3:48:12 AM ==> Job 'ReadSMSToDB is scheduled Thu, 03 Aug 2017 02:48:17 GMT
+8/3/2017 5:21:39 PM ==> Job 'ReadSMSToDB is scheduled Thu, 03 Aug 2017 16:21:43 GMT
+8/3/2017 6:07:40 PM ==> Job 'ReadSMSToDB is scheduled Thu, 03 Aug 2017 17:07:45 GMT

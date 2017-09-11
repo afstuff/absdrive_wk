@@ -1,0 +1,7 @@
+7/14/2017 5:29:41 PM ==> The port 'COM4' does not exist.
+7/14/2017 5:29:46 PM ==> The port 'COM4' does not exist.
+7/14/2017 5:29:56 PM ==> The port 'COM4' does not exist.
+7/14/2017 5:30:22 PM ==> The port 'COM4' does not exist.
+7/14/2017 5:30:23 PM ==> The port 'COM4' does not exist.
+7/14/2017 5:30:26 PM ==> The port 'COM4' does not exist.
+7/14/2017 5:32:29 PM ==> ------- DB Operations Successful: Return Value: 0------------

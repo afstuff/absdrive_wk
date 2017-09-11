@@ -1,0 +1,18 @@
+6/30/2017 6:19:44 PM ==> The port 'COM1' does not exist.
+6/30/2017 6:19:52 PM ==> The port 'COM1' does not exist.
+6/30/2017 6:20:02 PM ==> The port 'COM1' does not exist.
+6/30/2017 6:32:21 PM ==> The port 'COM1' does not exist.
+6/30/2017 6:33:11 PM ==> The port 'COM2' does not exist.
+6/30/2017 6:33:16 PM ==> The port 'COM2' does not exist.
+6/30/2017 6:33:46 PM ==> The port 'COM1' does not exist.
+6/30/2017 6:34:43 PM ==> The port 'COM3' does not exist.
+6/30/2017 6:35:10 PM ==> The port 'COM4' does not exist.
+6/30/2017 6:36:02 PM ==> The port 'COM1' does not exist.
+6/30/2017 6:36:04 PM ==> The port 'COM1' does not exist.
+6/30/2017 6:42:11 PM ==> The port 'COM1' does not exist.
+6/30/2017 7:09:19 PM ==> No phone connected
+6/30/2017 7:09:54 PM ==> No phone connected
+6/30/2017 7:10:40 PM ==> No phone connected at 
+6/30/2017 7:10:53 PM ==> No phone connected at 
+6/30/2017 7:11:11 PM ==> No phone connected at 
+6/30/2017 7:11:21 PM ==> No phone connected at 

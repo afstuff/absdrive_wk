@@ -1,0 +1,44 @@
+7/12/2017 7:16:10 PM ==> trying to connect before Port Opened 
+7/12/2017 7:16:14 PM ==> The PortName cannot be empty.
+Parameter name: PortName
+7/12/2017 7:16:25 PM ==> Portname or Key removed 
+7/12/2017 7:27:46 PM ==> Portname or Key: COM5
+7/12/2017 7:27:46 PM ==> Portname or Key removed COM5
+7/12/2017 7:34:29 PM ==> Portname or Key: COM5
+7/12/2017 7:34:29 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:41:13 PM ==> Portname or Key: COM5
+7/12/2017 7:41:13 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:42:12 PM ==> Portname or Key: COM5
+7/12/2017 7:42:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:43:12 PM ==> Portname or Key: COM5
+7/12/2017 7:43:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:44:12 PM ==> Portname or Key: COM5
+7/12/2017 7:44:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:45:12 PM ==> Portname or Key: COM5
+7/12/2017 7:45:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:46:12 PM ==> Portname or Key: COM5
+7/12/2017 7:46:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:47:12 PM ==> Portname or Key: COM5
+7/12/2017 7:47:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:48:12 PM ==> Portname or Key: COM5
+7/12/2017 7:48:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:49:12 PM ==> Portname or Key: COM5
+7/12/2017 7:49:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:50:12 PM ==> Portname or Key: COM5
+7/12/2017 7:50:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:51:12 PM ==> Portname or Key: COM5
+7/12/2017 7:51:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:52:12 PM ==> Portname or Key: COM5
+7/12/2017 7:52:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:53:12 PM ==> Portname or Key: COM5
+7/12/2017 7:53:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:54:12 PM ==> Portname or Key: COM5
+7/12/2017 7:54:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:55:12 PM ==> Portname or Key: COM5
+7/12/2017 7:55:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:56:12 PM ==> Portname or Key: COM5
+7/12/2017 7:56:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 7:59:13 PM ==> Portname or Key: COM5
+7/12/2017 7:59:13 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+7/12/2017 8:01:13 PM ==> Portname or Key: COM5
+7/12/2017 8:01:13 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)

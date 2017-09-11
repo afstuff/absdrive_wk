@@ -1,0 +1,321 @@
+8/7/2017 6:00:15 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:00:15 PM ==> Portname or Key: COM5
+8/7/2017 6:00:15 PM ==> Port Opened COM5
+8/7/2017 6:00:15 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:00:15 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:00:15 PM ==> ------- Port Closedx------------
+8/7/2017 6:02:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:02:09 PM ==> Portname or Key: COM5
+8/7/2017 6:02:09 PM ==> Port Opened COM5
+8/7/2017 6:02:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:02:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:02:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:04:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:04:09 PM ==> Portname or Key: COM5
+8/7/2017 6:04:10 PM ==> Port Opened COM5
+8/7/2017 6:04:10 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:04:10 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:04:11 PM ==> ------- Port Closedx------------
+8/7/2017 6:06:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:06:12 PM ==> Portname or Key: COM5
+8/7/2017 6:06:12 PM ==> Port Opened COM5
+8/7/2017 6:06:12 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:06:12 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:06:12 PM ==> ------- Port Closedx------------
+8/7/2017 6:08:13 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:08:13 PM ==> Portname or Key: COM5
+8/7/2017 6:08:13 PM ==> Port Opened COM5
+8/7/2017 6:08:13 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:08:13 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:08:13 PM ==> ------- Port Closedx------------
+8/7/2017 6:10:11 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:10:11 PM ==> Portname or Key: COM5
+8/7/2017 6:10:11 PM ==> Port Opened COM5
+8/7/2017 6:10:11 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:10:11 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:10:11 PM ==> ------- Port Closedx------------
+8/7/2017 6:12:11 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:12:11 PM ==> Portname or Key: COM5
+8/7/2017 6:12:11 PM ==> Port Opened COM5
+8/7/2017 6:12:11 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:12:11 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:12:11 PM ==> ------- Port Closedx------------
+8/7/2017 6:14:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:14:09 PM ==> Portname or Key: COM5
+8/7/2017 6:14:09 PM ==> Port Opened COM5
+8/7/2017 6:14:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:14:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:14:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:16:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:16:09 PM ==> Portname or Key: COM5
+8/7/2017 6:16:09 PM ==> Port Opened COM5
+8/7/2017 6:16:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:16:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:16:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:18:10 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:18:10 PM ==> Portname or Key: COM5
+8/7/2017 6:18:10 PM ==> Port Opened COM5
+8/7/2017 6:18:10 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:18:11 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:18:11 PM ==> ------- Port Closedx------------
+8/7/2017 6:20:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:20:09 PM ==> Portname or Key: COM5
+8/7/2017 6:20:09 PM ==> Port Opened COM5
+8/7/2017 6:20:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:20:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:20:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:22:11 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:22:11 PM ==> Portname or Key: COM5
+8/7/2017 6:22:11 PM ==> Port Opened COM5
+8/7/2017 6:22:11 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:22:11 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:22:11 PM ==> ------- Port Closedx------------
+8/7/2017 6:24:12 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:24:12 PM ==> Portname or Key: COM5
+8/7/2017 6:24:12 PM ==> Port Opened COM5
+8/7/2017 6:24:12 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:24:12 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:24:12 PM ==> ------- Port Closedx------------
+8/7/2017 6:26:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:26:09 PM ==> Portname or Key: COM5
+8/7/2017 6:26:09 PM ==> Port Opened COM5
+8/7/2017 6:26:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:26:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:26:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:28:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:28:09 PM ==> Portname or Key: COM5
+8/7/2017 6:28:09 PM ==> Port Opened COM5
+8/7/2017 6:28:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:28:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:28:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:30:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:30:09 PM ==> Portname or Key: COM5
+8/7/2017 6:30:09 PM ==> Port Opened COM5
+8/7/2017 6:30:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:30:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:30:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:32:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:32:09 PM ==> Portname or Key: COM5
+8/7/2017 6:32:09 PM ==> Port Opened COM5
+8/7/2017 6:32:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:32:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:32:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:34:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:34:09 PM ==> Portname or Key: COM5
+8/7/2017 6:34:09 PM ==> Port Opened COM5
+8/7/2017 6:34:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:34:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:34:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:36:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:36:09 PM ==> Portname or Key: COM5
+8/7/2017 6:36:09 PM ==> Port Opened COM5
+8/7/2017 6:36:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:36:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:36:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:38:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:38:09 PM ==> Portname or Key: COM5
+8/7/2017 6:38:09 PM ==> Port Opened COM5
+8/7/2017 6:38:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:38:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:38:09 PM ==> ------- Port Closedx------------
+8/7/2017 6:40:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 6:40:09 PM ==> Portname or Key: COM5
+8/7/2017 6:40:09 PM ==> Port Opened COM5
+8/7/2017 6:40:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 6:40:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 6:40:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:00:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:00:09 PM ==> Portname or Key: COM5
+8/7/2017 7:00:09 PM ==> Port Opened COM5
+8/7/2017 7:00:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:00:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:00:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:02:10 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:02:10 PM ==> Portname or Key: COM5
+8/7/2017 7:02:10 PM ==> Port Opened COM5
+8/7/2017 7:02:10 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:02:10 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:02:10 PM ==> ------- Port Closedx------------
+8/7/2017 7:04:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:04:09 PM ==> Portname or Key: COM5
+8/7/2017 7:04:09 PM ==> Port Opened COM5
+8/7/2017 7:04:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:04:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:04:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:06:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:06:09 PM ==> Portname or Key: COM5
+8/7/2017 7:06:09 PM ==> Port Opened COM5
+8/7/2017 7:06:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:06:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:06:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:08:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:08:09 PM ==> Portname or Key: COM5
+8/7/2017 7:08:09 PM ==> Port Opened COM5
+8/7/2017 7:08:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:08:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:08:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:10:10 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:10:10 PM ==> Portname or Key: COM5
+8/7/2017 7:10:10 PM ==> Port Opened COM5
+8/7/2017 7:10:10 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:10:10 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:10:10 PM ==> ------- Port Closedx------------
+8/7/2017 7:12:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:12:09 PM ==> Portname or Key: COM5
+8/7/2017 7:12:09 PM ==> Port Opened COM5
+8/7/2017 7:12:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:12:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:12:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:14:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:14:09 PM ==> Portname or Key: COM5
+8/7/2017 7:14:09 PM ==> Port Opened COM5
+8/7/2017 7:14:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:14:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:14:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:16:18 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:16:18 PM ==> Portname or Key: COM5
+8/7/2017 7:16:18 PM ==> Port Opened COM5
+8/7/2017 7:16:18 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:16:18 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:16:18 PM ==> ------- Port Closedx------------
+8/7/2017 7:18:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:18:09 PM ==> Portname or Key: COM5
+8/7/2017 7:18:09 PM ==> Port Opened COM5
+8/7/2017 7:18:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:18:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:18:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:20:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:20:09 PM ==> Portname or Key: COM5
+8/7/2017 7:20:09 PM ==> Port Opened COM5
+8/7/2017 7:20:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:20:09 PM ==> ------- Reading 2 SMS from Modem--------------
+8/7/2017 7:20:10 PM ==> ------- Before the read loop of Read into DB------------
+8/7/2017 7:20:10 PM ==> ------- SMS being Read 0, +2348055413900, Status, ------------
+8/7/2017 7:20:10 PM ==> ------- SMS being Read into DB------------
+8/7/2017 7:20:12 PM ==> -------Sent online status message to the user +2348055413900, ---------
+8/7/2017 7:20:12 PM ==> ------- SMS being Read 1, +2348055413900, Status, ------------
+8/7/2017 7:20:12 PM ==> ------- SMS being Read into DB------------
+8/7/2017 7:20:14 PM ==> -------Sent online status message to the user +2348055413900, ---------
+8/7/2017 7:20:14 PM ==> ------- Begining the Delete Operation------------
+8/7/2017 7:20:14 PM ==> ------- Port Closedx------------
+8/7/2017 7:22:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:22:09 PM ==> Portname or Key: COM5
+8/7/2017 7:22:09 PM ==> Port Opened COM5
+8/7/2017 7:22:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:22:09 PM ==> ------- Reading 2 SMS from Modem--------------
+8/7/2017 7:22:09 PM ==> ------- Before the read loop of Read into DB------------
+8/7/2017 7:22:09 PM ==> ------- SMS being Read 0, +2348055413900, Status, ------------
+8/7/2017 7:22:09 PM ==> ------- SMS being Read into DB------------
+8/7/2017 7:22:11 PM ==> -------Sent online status message to the user +2348055413900, ---------
+8/7/2017 7:22:11 PM ==> ------- SMS being Read 1, +2348055413900, Status, ------------
+8/7/2017 7:22:11 PM ==> ------- SMS being Read into DB------------
+8/7/2017 7:22:13 PM ==> -------Sent online status message to the user +2348055413900, ---------
+8/7/2017 7:22:13 PM ==> ------- Begining the Delete Operation------------
+8/7/2017 7:22:13 PM ==> ------- Port Closedx------------
+8/7/2017 7:24:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:24:09 PM ==> Portname or Key: COM5
+8/7/2017 7:24:09 PM ==> Port Opened COM5
+8/7/2017 7:24:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:24:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:24:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:26:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:26:09 PM ==> Portname or Key: COM5
+8/7/2017 7:26:09 PM ==> Port Opened COM5
+8/7/2017 7:26:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:26:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:26:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:28:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:28:09 PM ==> Portname or Key: COM5
+8/7/2017 7:28:09 PM ==> Port Opened COM5
+8/7/2017 7:28:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:28:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:28:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:30:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:30:09 PM ==> Portname or Key: COM5
+8/7/2017 7:30:09 PM ==> Port Opened COM5
+8/7/2017 7:30:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:30:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:30:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:32:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:32:09 PM ==> Portname or Key: COM5
+8/7/2017 7:32:09 PM ==> Port Opened COM5
+8/7/2017 7:32:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:32:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:32:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:34:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:34:09 PM ==> Portname or Key: COM5
+8/7/2017 7:34:09 PM ==> Port Opened COM5
+8/7/2017 7:34:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:34:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:34:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:36:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:36:09 PM ==> Portname or Key: COM5
+8/7/2017 7:36:09 PM ==> Port Opened COM5
+8/7/2017 7:36:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:36:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:36:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:38:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:38:09 PM ==> Portname or Key: COM5
+8/7/2017 7:38:09 PM ==> Port Opened COM5
+8/7/2017 7:38:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:38:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:38:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:40:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:40:09 PM ==> Portname or Key: COM5
+8/7/2017 7:40:09 PM ==> Port Opened COM5
+8/7/2017 7:40:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:40:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:40:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:42:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:42:09 PM ==> Portname or Key: COM5
+8/7/2017 7:42:09 PM ==> Port Opened COM5
+8/7/2017 7:42:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:42:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:42:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:44:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:44:09 PM ==> Portname or Key: COM5
+8/7/2017 7:44:09 PM ==> Port Opened COM5
+8/7/2017 7:44:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:44:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:44:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:46:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:46:09 PM ==> Portname or Key: COM5
+8/7/2017 7:46:09 PM ==> Port Opened COM5
+8/7/2017 7:46:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:46:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:46:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:48:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:48:09 PM ==> Portname or Key: COM5
+8/7/2017 7:48:09 PM ==> Port Opened COM5
+8/7/2017 7:48:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:48:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:48:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:50:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:50:09 PM ==> Portname or Key: COM5
+8/7/2017 7:50:09 PM ==> Port Opened COM5
+8/7/2017 7:50:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:50:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:50:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:52:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:52:09 PM ==> Portname or Key: COM5
+8/7/2017 7:52:09 PM ==> Port Opened COM5
+8/7/2017 7:52:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:52:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:52:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:54:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:54:09 PM ==> Portname or Key: COM5
+8/7/2017 7:54:09 PM ==> Port Opened COM5
+8/7/2017 7:54:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:54:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:54:09 PM ==> ------- Port Closedx------------
+8/7/2017 7:56:09 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 7:56:09 PM ==> Portname or Key: COM5
+8/7/2017 7:56:09 PM ==> Port Opened COM5
+8/7/2017 7:56:09 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 7:56:09 PM ==> ------- No SMS message exists in Modem--------------
+8/7/2017 7:56:09 PM ==> ------- Port Closedx------------
+8/7/2017 8:02:10 PM ==> Portname or Key removed COM7 with value HUAWEI Mobile Connect - 3G Application Interface (COM7)
+8/7/2017 8:02:10 PM ==> Portname or Key: COM5
+8/7/2017 8:02:19 PM ==> Port Opened COM5
+8/7/2017 8:02:19 PM ==> ------- Modem is connected at PORT COM5------------
+8/7/2017 8:02:20 PM ==> Erroring away............... No comm. device connected

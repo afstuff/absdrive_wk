@@ -1,0 +1,12 @@
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\bin\Debug\ABSDrive.SMS.exe.config
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\bin\Debug\ABSDrive.SMS.exe
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\bin\Debug\ABSDrive.SMS.pdb
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\bin\Debug\ABSDrive.SMSOps.dll
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\bin\Debug\ABSDrive.SMSOps.pdb
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\obj\Debug\ABSDrive.SMS.csprojResolveAssemblyReference.cache
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\obj\Debug\ABSDrive.SMS.frmSMSConsole.resources
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\obj\Debug\ABSDrive.SMS.Properties.Resources.resources
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\obj\Debug\ABSDrive.SMS.csproj.GenerateResource.Cache
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\obj\Debug\ABSDrive.SMS.exe
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\obj\Debug\ABSDrive.SMS.pdb
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.SMS\ABSDrive.SMS\bin\Debug\MySql.Data.dll

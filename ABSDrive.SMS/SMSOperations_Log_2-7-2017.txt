@@ -1,0 +1,10 @@
+7/2/2017 12:49:48 AM ==> Object reference not set to an instance of an object.
+7/2/2017 1:01:30 AM ==> Complex DataBinding accepts as a data source either an IList or an IListSource.
+7/2/2017 1:02:11 AM ==> Complex DataBinding accepts as a data source either an IList or an IListSource.
+7/2/2017 1:14:01 AM ==> Complex DataBinding accepts as a data source either an IList or an IListSource.
+7/2/2017 1:16:09 AM ==> Unable to cast object of type 'System.Collections.DictionaryEntry' to type 'System.String'.
+7/2/2017 1:42:24 AM ==> The port 'COM7 - HUAWEI Mobile Connect - 3G Application Interface (COM7)' does not exist.
+7/2/2017 1:42:46 AM ==> The port 'COM7 - HUAWEI Mobile Connect - 3G Application Interface (COM7)' does not exist.
+7/2/2017 2:13:43 AM ==> No phone connected
+7/2/2017 2:14:44 AM ==> No phone connected
+7/2/2017 2:14:44 AM ==> No phone connected

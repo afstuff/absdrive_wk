@@ -1,0 +1,1 @@
+8/7/2017 6:00:03 PM ==> Job 'ReadSMSToDB is scheduled Mon, 07 Aug 2017 17:00:08 GMT

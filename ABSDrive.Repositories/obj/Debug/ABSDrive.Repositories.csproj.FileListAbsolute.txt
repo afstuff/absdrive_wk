@@ -1,0 +1,4 @@
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Repositories\bin\Debug\ABSDrive.Repositories.dll
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Repositories\bin\Debug\ABSDrive.Repositories.pdb
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Repositories\obj\Debug\ABSDrive.Repositories.dll
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Repositories\obj\Debug\ABSDrive.Repositories.pdb

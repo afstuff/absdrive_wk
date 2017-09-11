@@ -1,0 +1,9 @@
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Settings\bin\Debug\ABSDriveSettings.exe.config
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Settings\obj\Debug\ABSDriveSettings.exe
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Settings\obj\Debug\ABSDriveSettings.pdb
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Settings\obj\Debug\ABSDrive.Settings.csprojResolveAssemblyReference.cache
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Settings\obj\Debug\ABSDriveSettings.frmSettings.resources
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Settings\obj\Debug\ABSDriveSettings.Properties.Resources.resources
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Settings\obj\Debug\ABSDrive.Settings.csproj.GenerateResource.Cache
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Settings\bin\Debug\ABSDriveSettings.exe
+C:\James Stuff\VS2013 VERSION\ABSDrive\ABSDrive.Settings\bin\Debug\ABSDriveSettings.pdb

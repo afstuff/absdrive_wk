@@ -1,0 +1,5 @@
+8/30/2017 1:48:55 AM ==> Sending SMS Notifications Initializing... 
+8/30/2017 1:49:58 AM ==> ------- Data retrieval by emai address, document merge and attachment process Error! The process cannot access the file 'C:\James Stuff\VS2013 VERSION\ABSDrive\PolicyDocs\Policy Doc_+2348055413900_20170830014950.docx' because it is being used by another process.------------
+8/30/2017 1:55:52 AM ==> Email(s) Successfully Sent to jcc_nnannah@yahoo.co.uk
+8/30/2017 1:59:17 AM ==> Email(s) Successfully Sent to jcc_nnannah@yahoo.co.uk
+8/30/2017 1:59:24 AM ==> ------- Data retrieval by emai address, document merge and attachment process Error! The process cannot access the file 'C:\James Stuff\VS2013 VERSION\ABSDrive\PolicyDocs\Policy Doc_+2348055413900_20170830015923.docx' because it is being used by another process.------------

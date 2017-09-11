@@ -1,0 +1,33 @@
+7/24/2017 6:07:03 PM ==> Scheduler not available: No connection could be made because the target machine actively refused it 127.0.0.1:555
+7/24/2017 6:08:14 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 6:08:19 PM +01:00
+7/24/2017 6:32:03 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 6:32:08 PM +01:00
+7/24/2017 6:36:51 PM ==> Scheduler not available: No connection could be made because the target machine actively refused it 127.0.0.1:555
+7/24/2017 6:40:58 PM ==> Scheduler not available: No connection could be made because the target machine actively refused it 127.0.0.1:555
+7/24/2017 6:41:12 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 6:41:16 PM +01:00
+7/24/2017 6:46:15 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 6:46:19 PM +01:00
+7/24/2017 6:48:29 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 6:48:34 PM +01:00
+7/24/2017 6:54:48 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 6:54:53 PM +01:00
+7/24/2017 7:10:06 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 7:10:11 PM +01:00
+7/24/2017 7:16:51 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 7:16:56 PM +01:00
+7/24/2017 7:39:25 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 7:39:30 PM +01:00
+7/24/2017 7:50:11 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 7:50:16 PM +01:00
+7/24/2017 7:53:01 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 7:53:06 PM +01:00
+7/24/2017 7:58:37 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 7:58:42 PM +01:00
+7/24/2017 8:04:05 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 8:04:10 PM +01:00
+7/24/2017 10:21:08 PM ==> Scheduler not available: No connection could be made because the target machine actively refused it 127.0.0.1:555
+7/24/2017 10:22:01 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 10:22:06 PM +01:00
+7/24/2017 10:53:06 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 10:53:11 PM +01:00
+7/24/2017 10:57:33 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 10:57:38 PM +01:00
+7/24/2017 11:01:38 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:01:43 PM +01:00
+7/24/2017 11:04:51 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:04:56 PM +01:00
+7/24/2017 11:08:42 PM ==> Scheduler not available: No connection could be made because the target machine actively refused it 127.0.0.1:555
+7/24/2017 11:16:41 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:16:46 PM +01:00
+7/24/2017 11:19:46 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:19:50 PM +01:00
+7/24/2017 11:24:15 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:24:20 PM +01:00
+7/24/2017 11:27:39 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:27:44 PM +01:00
+7/24/2017 11:31:13 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:31:18 PM +01:00
+7/24/2017 11:33:42 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:33:47 PM +01:00
+7/24/2017 11:37:13 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:37:18 PM +01:00
+7/24/2017 11:40:21 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:40:26 PM +01:00
+7/24/2017 11:44:47 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:44:52 PM +01:00
+7/24/2017 11:59:07 PM ==> Job 'ReadSMSToDB is scheduled 7/24/2017 11:59:12 PM +01:00

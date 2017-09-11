@@ -1,0 +1,1 @@
+7/31/2017 6:35:59 PM ==> Job 'ReadSMSToDB is scheduled 7/31/2017 6:36:04 PM +01:00

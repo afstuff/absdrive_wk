@@ -1,0 +1,1457 @@
+7/13/2017 6:07:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:07:20 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:09:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:11:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:13:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:15:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:17:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:19:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:21:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:23:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:25:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:27:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:29:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:31:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:33:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:35:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:37:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:39:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:16 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:41:17 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:18 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:43:19 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:30 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:44:31 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:46:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:28 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:28 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:28 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:28 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:48:29 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:49:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:51:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:36 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:36 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:36 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:36 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:36 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:36 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:36 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:53:37 PM ==> ------- DB Operations Error!0------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:54:21 PM ==> ------- DB Operations Error!------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:56:25 PM ==> ------- DB Operations Error! Access denied for user 'absdriver'@'localhost' (using password: YES)------------
+7/13/2017 6:58:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 6:58:25 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:00:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:23 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:02:24 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:05:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:05:13 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:07:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:09:12 PM ==> ------- DB Operations Error! You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'absfn_UpdateSMSInbox' at line 1------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:15:34 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbo`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:53 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:53 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:53 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:53 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:53 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:53 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:16:53 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:18:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:20:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:22:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:24:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:26:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:28:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:30:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:50 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:50 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:50 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:50 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:50 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:50 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:50 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:50 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:32:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:34:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:51 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:36:52 PM ==> ------- DB Operations Error! Procedure or function '`absfn_UpdateSMSInbox`' cannot be found in database '`ABSDrive`'.------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:38:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:40:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:42:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:44:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:46:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:48:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:50:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:52:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:51 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------
+7/13/2017 7:54:52 PM ==> ------- DB Operations Successful: Return Value: 0------------

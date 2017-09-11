@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABSDrive.SMSServiceAgent", "ABSDrive.SMSServiceAgent\ABSDrive.SMSServiceAgent.csproj", "{E5556FEF-E8F5-4978-BCB1-69012FBC2BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABSDrive.SMSOps", "..\ABSDrive.SMSOps\ABSDrive.SMSOps.csproj", "{E46E6CC3-66C8-42EC-8792-DF81139D668B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABSDrive.Repositories", "..\ABSDrive.Repositories\ABSDrive.Repositories.csproj", "{D00F1DA5-1C83-40ED-AD0D-CE26C5929063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateNIID.Data", "..\..\UpdateNIID.Data\UpdateNIID.Data.csproj", "{2E5DCE5D-442B-48A2-A08D-6DFBC2AB215F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateNIID.Repositories", "..\..\UpdateNIID.Repositories\UpdateNIID.Repositories.csproj", "{98305381-B5C4-4AE7-8406-8497092C6AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateNIID.Model", "..\..\UpdateNIID.Model\UpdateNIID.Model.csproj", "{63796341-205B-4ED8-86FE-86F12CFEE2F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5556FEF-E8F5-4978-BCB1-69012FBC2BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5556FEF-E8F5-4978-BCB1-69012FBC2BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5556FEF-E8F5-4978-BCB1-69012FBC2BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5556FEF-E8F5-4978-BCB1-69012FBC2BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E46E6CC3-66C8-42EC-8792-DF81139D668B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46E6CC3-66C8-42EC-8792-DF81139D668B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46E6CC3-66C8-42EC-8792-DF81139D668B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46E6CC3-66C8-42EC-8792-DF81139D668B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00F1DA5-1C83-40ED-AD0D-CE26C5929063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00F1DA5-1C83-40ED-AD0D-CE26C5929063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00F1DA5-1C83-40ED-AD0D-CE26C5929063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00F1DA5-1C83-40ED-AD0D-CE26C5929063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5DCE5D-442B-48A2-A08D-6DFBC2AB215F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5DCE5D-442B-48A2-A08D-6DFBC2AB215F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5DCE5D-442B-48A2-A08D-6DFBC2AB215F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5DCE5D-442B-48A2-A08D-6DFBC2AB215F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98305381-B5C4-4AE7-8406-8497092C6AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98305381-B5C4-4AE7-8406-8497092C6AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98305381-B5C4-4AE7-8406-8497092C6AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98305381-B5C4-4AE7-8406-8497092C6AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63796341-205B-4ED8-86FE-86F12CFEE2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63796341-205B-4ED8-86FE-86F12CFEE2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63796341-205B-4ED8-86FE-86F12CFEE2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63796341-205B-4ED8-86FE-86F12CFEE2F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
